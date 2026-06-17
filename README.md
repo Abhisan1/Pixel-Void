@@ -4,7 +4,7 @@ A browser-based space shooter built around a simple idea: what if the games on t
 
 Pilot the Millennium Falcon through six sectors of Imperial space, fight through escalating enemy formations, and take down a Star Destroyer in the final sector. Built with HTML5 Canvas — no install, no dependencies, runs in any browser.
 
-**[Play it here](https://Abhisan1.github.io/pixel-void)**
+**[Play it here](https://abhisan1.github.io/Pixel-Void/)**
 
 ---
 
@@ -41,7 +41,7 @@ Vanilla JavaScript and HTML5 Canvas. No frameworks, no libraries, no build step.
 ## Run Locally
 
 ```
-git clone https://github.com/Abhisan1/pixel-void
-cd pixel-void
+git clone https://github.com/Abhisan1/Pixel-Void
+cd Pixel-Void
 # Open index.html in any browser, or use Live Server in VS Code
 ```
